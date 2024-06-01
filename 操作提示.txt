@@ -1,0 +1,28 @@
+尝试bundle exec jekyll serve
+
+jekyll build
+bundle exec jekyll build
+
+http://localhost:4000
+ctrol+c 退出
+
+
+
+bundle clean --force
+在 RubyMine 中运行 rspec 时遇到此错误，bundle clean --force，然后 RubyMine 将在再次运行 rspec 时自动安装更正的版本。
+
+这对我来说还不够，gem update相关宝石帮助解决了这个问题。
+--------------------------------------------------------------------------------
+如果你有理由保留当前版本的 rake（或导致问题的其他 gem），matt是正确的，最好的方法是运行bundle exec
+
+
+如需安装和github pages相同版本的jekyll，那么不需要安装上面这几个，直接用下面命令安装
+
+gem install github-pages
+
+使用RubyGems安装jekyll很简单，命令如下：
+
+gem install jekyll 
+如果使用的标记语言是Markdown，则需要另外安装
+
+gem install rdiscount

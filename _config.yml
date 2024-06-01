@@ -14,11 +14,11 @@ author:
   name: MakeDreamGame # author name
   bio: >- # tell to the world
     Welcome to the website of makedreamGame. Let's take a journey, play a game, achieve a goal, and see where we can go.
-  username: MakeDreamGame # general username
+  username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: makedreamgames.feedback@gmail.com # email adress
+  email: your-email@email.com # email adress
   avatar: /assets/img/logo2.jpg # change with your own avatar
 
 # URL settings
