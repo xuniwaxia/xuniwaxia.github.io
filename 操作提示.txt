@@ -9,6 +9,7 @@ ctrol+c 退出
 
 
 
+
 bundle clean --force
 在 RubyMine 中运行 rspec 时遇到此错误，bundle clean --force，然后 RubyMine 将在再次运行 rspec 时自动安装更正的版本。
 
