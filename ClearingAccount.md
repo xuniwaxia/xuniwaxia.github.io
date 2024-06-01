@@ -15,7 +15,7 @@ If you want to delete your game data information. Please contact us, we will man
 
 #### Our customer service email
 
-Email: [makedgamespt11111@hotmail.com](mailto:makedgamespt11111@hotmail.com)
+Email: [xuniwaxia02@outlook.com](mailto:xuniwaxia02@outlook.com)
 
 ------
 

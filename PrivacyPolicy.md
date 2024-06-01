@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy for makedreamgame
+title: Privacy Policy for xuniwaxia
 permalink: /PrivacyPolicy/
 layout: page
 excerpt: none
@@ -12,13 +12,13 @@ comments: false
 
 ## introduction
 
-[Makedreamgame] (“MakeDgame” or “we”) highly values your privacy. This privacy policy (the “Policy”) sets out how we collect, use and protect your personal data when you access, use and play games, features, content and services via websites, mobile applications and other channels or portals developed and managed by MakeDgame(the “Services”).
+[xuniwaxia] (“xuniwaxia” or “we”) highly values your privacy. This privacy policy (the “Policy”) sets out how we collect, use and protect your personal data when you access, use and play games, features, content and services via websites, mobile applications and other channels or portals developed and managed by xuniwaxia(the “Services”).
 
-At [Makedreamgame]， one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by [MAKEDREAMGAME] and how we use it.
+At [xuniwaxia]， one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by [xuniwaxia] and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in [Makedreamgame]. This policy is not applicable to any information collected offline or via channels other than this website.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in [xuniwaxia]. This policy is not applicable to any information collected offline or via channels other than this website.
 
 ## Consent
 
@@ -56,11 +56,11 @@ How we use it：
 
 ## Log Files
 
-[Makedreamgame] follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+[xuniwaxia] follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
 ## Third Party Privacy Policies
 
-[Makedreamgame]'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+[xuniwaxia]'s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
@@ -98,4 +98,4 @@ If you make a request, we have one month to respond to you. If you would like to
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-[Makedreamgame] does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+[xuniwaxia] does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.

@@ -1,6 +1,7 @@
-尝试bundle exec jekyll serve
+进不去就用这个尝试bundle exec jekyll serve
 
 jekyll build
+启动
 bundle exec jekyll build
 
 http://localhost:4000
