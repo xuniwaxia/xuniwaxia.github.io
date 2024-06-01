@@ -1,8 +1,7 @@
 # Site settings
-title: Makedream Game # site title
+title: xuniwaxia Game # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+ It's okay if you don't fill it in here.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,14 +10,14 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: MakeDreamGame # author name
+  name: xuniwaxia # author name
   bio: >- # tell to the world
-    Welcome to the website of makedreamGame. Let's take a journey, play a game, achieve a goal, and see where we can go.
-  username: MakeDreamGame # general username
+    Hello everyone, I am Virtual Vasha. Welcome to play my game
+  username: xuniwaxia # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: makedreamgames.feedback@gmail.com # email adress
+  email: xuniwaxia02@outlook.com # email adress
   avatar: /assets/img/logo2.jpg # change with your own avatar
 
 # URL settings
