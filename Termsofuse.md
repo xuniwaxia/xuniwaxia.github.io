@@ -76,7 +76,7 @@ We will endeavor to resolve disputes with users under the Terms through amicable
 MiscellaneousInterpretation
 Headings are for reference purposes only and in no way limit the scope or extent of each section and shall not affect the meaning of the language in each section.
 Notice
-Users shall send all the communications and correspondence to xuniwaxia to [xuniwaxiaspt11111@hotmail.com].
+Users shall send all the communications and correspondence to xuniwaxia to [xuniwaxia02@outlook.com].
 Severability
 If for any reason any provision of the Terms becomes unenforceable, that provision will be enforced to the maximum extent permitted so as to give effect to the intent of the Terms, and the remainder of the Terms will remain in full force and effect.
 Amendment
