@@ -8,8 +8,9 @@ comments: false
 
 ## Delete account information
 
-<hr>
-If you want to delete your game data information. Please contact us, we will manually clear your game data. All data within the application will be deleted, and we will not back up your data or restore it.
+
+​	If you want to delete the game data information, please contact us, we will manually delete your game data. All data in the application will be deleted, and we will not back up or restore your data.
+
 
 
 

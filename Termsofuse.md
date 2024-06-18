@@ -60,7 +60,7 @@ Users should read the privacy policies on third-party websites and applications 
 All intellectual property rights, including trademarks, patents, copyrights and other kinds of intellectual property rights, whether registrable or not, in relation to all the trade or business names, domain names, logos, content, layout, text and graphics, source codes, algorithms, software, database, applications, content and information of our Services are legally owned or acquired by [xuniwaxia].
 Disclaimer and Limitation of LiabilityUsers acknowledge and understand that [xuniwaxia] cannot guarantee a 100% safe operating environment, and [xuniwaxia] assumes no liability of whatsoever nature arising out of any failure, interruption and discontinuance of the Services due to the limitation of internet communication technologies and events of force majeure, attacks, viruses worms and malicious codes, system vulnerability, failure of third-party services and other factors which are beyond the control of [xuniwaxia].
 To the extent permitted by applicable law, [xuniwaxia] will not be responsible for any loss of profits, revenues, or indirect, special, consequential, or punitive damages.
-Personal Data Protection Please refer to our [Privacy Policy](http://127.0.0.1:4000/PrivacyPolicy/)  for information on how we collect, use and share your data.
+Personal Data Protection Please refer to our [Privacy Policy](https://xuniwaxia.github.io/PrivacyPolicy/)  for information on how we collect, use and share your data.
 
 ## Indemnity
 

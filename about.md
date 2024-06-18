@@ -12,7 +12,7 @@ If you have any questions about my project or other aspects, please feel free to
 Let's explore the world of code together!
 You can add more content about your interests, skills, and goals based on your own situation. Wishing you all the best on your programming journey! If you have any other needs, feel free to let me know. 😊
 
-**Here is my email✨**	
+**Please contact me✨**	
 
 -  xuniwaxia02@outlook.com
 
