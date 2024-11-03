@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to xuniwaxia!"
 date:   2024-06-23 23:29:20 +0700
 categories: xuniwaxia update
 usemathjax: true
